@@ -57,6 +57,7 @@ h2{
     text-align: right;
     top: 80px;
     right: 30px;
+    display: flex;
 }
 #bodyproductos{
     background-image: url(../imagenes/fondoelgransalon.jpg);
@@ -75,4 +76,6 @@ button{
     color: white;
     border-radius: 5px 0px 5px 0px;
 }
-
+nav{
+    display: flex;
+}
